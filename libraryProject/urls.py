@@ -22,5 +22,6 @@ urlpatterns = [
     path('api/books/', include('apis.urls')),
     path('api/todos/', include('todos.urls')),
     path('api/posts/', include('posts.urls')),
+    path('api-auth/', include('rest_framework.urls')),
     path('', include('books.urls')),
 ]
