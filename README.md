@@ -15,7 +15,7 @@ This is a practice repo using the above ebook.All examples are used for educatio
 5. [x] Chapter 5: Todo API
 6. [x] Chapter 6: Blog API
 7. [x] Chapter 7: Permissions
-8. [ ] Chapter 8: User Authentication
+8. [x] Chapter 8: User Authentication
 9. [ ] Chapter 9: View sets and Routers
 10. [ ] Chapter 10: Schemas and Documentation
 11. [ ] Chapter 11: Production and deployment.
